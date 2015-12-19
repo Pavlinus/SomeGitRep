@@ -1,2 +1,2 @@
 # SomeGitRep
-Git Skill Testing
+Git Skill Testing modified thirdly

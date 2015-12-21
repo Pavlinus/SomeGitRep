@@ -1,2 +1,2 @@
 # SomeGitRep
-Git Skill Testing modified thread
+Git Skill Testing modified testing branch

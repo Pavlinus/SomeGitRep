@@ -1,2 +1,2 @@
 # SomeGitRep
-Git Skill Testing modified testing branch
+Git Skill Testing supp branch
